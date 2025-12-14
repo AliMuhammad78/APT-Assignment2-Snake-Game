@@ -1,6 +1,11 @@
 # APT-Assignment2-Snake-Game
 
-Author:Muhammad Ali Saagar
+Authors:
+Muhammad Ali Saagar( 23021519-095)
+Zain Ali Yousaf( 23021519-122)
+
+ 
+  
 Date: 2025-12-12
 
 Included files:
